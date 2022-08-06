@@ -1,0 +1,6 @@
+:root {
+  --padglobal: 8px;
+
+  --black20: rgba(0, 0, 0, 0.2);
+  --shadow-1: 1px 1px 1px var(--black20);
+}

@@ -1,0 +1,6 @@
+.footer-container {
+  padding: var(--padglobal);
+  text-align: center;
+  border-top: 1px solid grey;
+  box-shadow: var(--shadow-1);
+}

@@ -1,0 +1,5 @@
+.header-container {
+  padding: var(--padglobal);
+  padding-left: 24px;
+  box-shadow: var(--shadow-1);
+}
